@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "minecraft:block/lapis_ore",
+	"end": "minecraft:block/lapis_ore_top"
+  }
+}

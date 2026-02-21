@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_mirrored",
+  "textures": {
+    "side": "minecraft:block/coal_ore_var2",
+	"end": "minecraft:block/coal_ore_top"
+  }
+}

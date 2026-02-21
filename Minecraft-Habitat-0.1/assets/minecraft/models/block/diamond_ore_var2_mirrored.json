@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_mirrored",
+  "textures": {
+    "side": "minecraft:block/diamond_ore_var2",
+	"end": "minecraft:block/diamond_ore_top"
+  }
+}

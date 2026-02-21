@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	  {
+        "model": "minecraft:block/deepslate_emerald_ore"
+      },
+	  {
+        "model": "minecraft:block/deepslate_emerald_ore_mirrored"
+      },
+	  {
+        "model": "minecraft:block/deepslate_emerald_ore_var1"
+      },
+	  {
+        "model": "minecraft:block/deepslate_emerald_ore_var1_mirrored"
+      }
+	]
+  }
+}

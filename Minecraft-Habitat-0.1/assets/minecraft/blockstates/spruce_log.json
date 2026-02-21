@@ -1,0 +1,55 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "minecraft:block/spruce_log_horizontal",
+        "x": 90,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "minecraft:block/spruce_log_var1_horizontal",
+        "x": 90,
+        "y": 90,
+        "weight": 5
+      },
+      {
+        "model": "minecraft:block/spruce_log_moss_horizontal",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "minecraft:block/spruce_log",
+        "weight": 5
+      },
+      {
+        "model": "minecraft:block/spruce_log_var1",
+        "weight": 5
+      },
+      {
+        "model": "minecraft:block/spruce_log_moss",
+        "weight": 1
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "minecraft:block/spruce_log_horizontal",
+        "x": 90,
+        "weight": 5
+      },
+      {
+        "model": "minecraft:block/spruce_log_var1_horizontal",
+        "x": 90,
+        "weight": 5
+      },
+      {
+        "model": "minecraft:block/spruce_log_moss_horizontal",
+        "x": 90,
+        "weight": 1
+      }
+    ]
+  }
+}

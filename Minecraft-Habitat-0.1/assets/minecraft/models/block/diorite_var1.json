@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/diorite_top_var1",
+    "side": "minecraft:block/diorite"
+  }
+}

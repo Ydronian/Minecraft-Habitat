@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/granite"
+      },
+	  {
+        "model": "minecraft:block/granite_mirrored"
+      }
+    ]
+  }
+}

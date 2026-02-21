@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_mirrored",
+  "textures": {
+    "side": "minecraft:block/gold_ore",
+	"end": "minecraft:block/gold_ore_top"
+  }
+}
